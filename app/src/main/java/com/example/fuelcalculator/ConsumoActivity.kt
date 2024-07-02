@@ -28,6 +28,7 @@ class ConsumoActivity : AppCompatActivity() {
                         Snackbar.LENGTH_LONG
                     )
                     .show()
+
             } else {
                 val consumo = edtconsumo.text.toString().toFloatOrNull() ?: 0.0
                 val intent = Intent(this, DestinoActivity::class.java)

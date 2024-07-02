@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="SlateBlue_background">#F8853E</color>
+    <color name="Aqua_button">#00FFFF</color>
+    <color name="Grey_hint">#FAAF6A</color>
+    <color name="Grey">#cacbcf</color>
+
+
+</resources>

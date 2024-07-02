@@ -8,10 +8,13 @@ this project calculates your Fuel and gives you the result of your current state
 <img src="https://github.com/robsonjso/FuelCalculator/assets/125934032/c6bdf211-4b71-447b-a8b3-01385aab15e8" width= 260 />
 <img src="https://github.com/robsonjso/FuelCalculator/assets/125934032/a5f60b7f-2db8-4694-b629-0e7839432dba" width= 260 />
 <img src="https://github.com/robsonjso/FuelCalculator/assets/125934032/d17ea788-d037-493b-8467-d95f10aa98eb" width= 260 />
-<img src="https://github.com/robsonjso/FuelCalculator/assets/125934032/e7aa8ee4-42aa-46f6-9a66-e734ac8d00f3" width= 260 />
+<img src="https://github.com/robsonjso/FuelCalculator/assets/125934032/327d9e3f-fb28-41ee-bc76-45e108cd500e" width= 260 />
 <img src="https://github.com/robsonjso/FuelCalculator/assets/125934032/42a16b39-76ff-4c30-a2a1-0c76c4ca5fb9" width= 260 />
 
-https://github.com/robsonjso/FuelCalculator/assets/125934032/8784dd11-6123-4718-8a2c-9a6709988deb
+
+
+https://github.com/robsonjso/FuelCalculator/assets/125934032/6e529807-a5b7-4694-b900-4a1d3eedb11c
+
 
 
 
